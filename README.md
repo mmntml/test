@@ -1,4 +1,4 @@
-#### test von Nigjar Marduchaeva, Matrikelnr.: 470672
+#### test von NM
 # testset
 # Das ist ein Test zum Reinarbeiten und Ausprobieren
 

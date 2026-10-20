@@ -62,11 +62,10 @@ git blame	   Anzeigen, welcher Commit einzelne Zeilen zuletzt geändert hat
 git clean	   Nicht versionierte Dateien entfernen
 git config	 Git-Einstellungen konfigurieren
 
-# Aber was ist Git und warum sollte es verwendet werden?
+# Aber was ist Git überhaupt und warum sollte es verwendet werden?
 
-# Was sind Branches, wie werden diese genutzt und passiert bei Merge-Konflikten
+# Was sind Branches, wie werden diese genutzt und was passiert bei sog. Merge-Konflikten?
 
-# Next level: Wie nutze ich Git mit IntelliJ/PyCharm — Local Repository und Remote Repository
+# Next Level: So nutze ich Git mit IntelliJ/PyCharm — Local Repository und Remote Repository
 
-
-# Welche nützlichen Git-Tools und Plattformen gibt es (und wöfür nochmal?)
+# Welche nützlichen Git-Tools und Plattformen gibt es und wofür eigentlich ?

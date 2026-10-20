@@ -1,4 +1,4 @@
-# test von Nigjar Marduchaeva, Matrikelnr.: 470672
+#### test von Nigjar Marduchaeva, Matrikelnr.: 470672
 # testset
 # Das ist ein Testprojekt
 ## Ziel des Projekts ist es, das Arbeiten mit Softwareprogrammen kennenzulernen und sich so einzuarbeiten, dass die Umsetzung der Modulaufgabe(n) möglich wird.
@@ -62,4 +62,11 @@ git blame	   Anzeigen, welcher Commit einzelne Zeilen zuletzt geändert hat
 git clean	   Nicht versionierte Dateien entfernen
 git config	 Git-Einstellungen konfigurieren
 
-# Soviel erst einmal... 
+# Aber was ist Git und warum sollte es verwendet werden?
+
+# Was sind Branches, wie werden diese genutzt und passiert bei Merge-Konflikten
+
+# Next level: Wie nutze ich Git mit IntelliJ/PyCharm — Local Repository und Remote Repository
+
+
+# Welche nützlichen Git-Tools und Plattformen gibt es (und wöfür nochmal?)

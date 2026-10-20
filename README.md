@@ -63,21 +63,21 @@ git clean	   Nicht versionierte Dateien entfernen
 git config	 Git-Einstellungen konfigurieren
 
 # Aber was ist Git überhaupt und warum sollte es verwendet werden?
-### Git ist ein sog. Versionsverwaltungssystem für Dateien und Code. Hier werden Änderungen in der Bearbeitung von Code gespeichert, sodass jede Version des Quellcodes bzw. der Codeblöcke nachvollziehbar bleibt. Anstelle immer wieder ein neues Doc abzuspeichern und es in die "aktuellste" Version umzubenennen, hat man einfach allle Versionen gespeichert und kann in allen jeweils arbeiten, Fehler beheben und/oder Inhalte optimieren ohne sich zu verzetteln. Git = eine Art Trackingtool für die eigenen Arbeitsetappen.
+#### Git ist ein sog. Versionsverwaltungssystem für Dateien und Code. Hier werden Änderungen in der Bearbeitung von Code gespeichert, sodass jede Version des Quellcodes bzw. der Codeblöcke nachvollziehbar bleibt. Anstelle immer wieder ein neues Doc abzuspeichern und es in die "aktuellste" Version umzubenennen, hat man einfach allle Versionen gespeichert und kann in allen jeweils arbeiten, Fehler beheben und/oder Inhalte optimieren ohne sich zu verzetteln. Git = eine Art Trackingtool für die eigenen Arbeitsetappen.
 
 
 # Warum sollte man Git verwenden?
 
-## Änderungen verfolgen: Immer ersichtlich, was sich verändert hat.
-## Sicherheit: Frühere Versionen sind jederzeit verfügbar und können als Grundgerüst für Optimierungen dienen.
-## Branches: Funktionen können getestet/ausprobiert werden, ohne dass der Hauptstand zu verändert und/oder verloren geht.
-## Zusammenarbeit: Mehrere Personen können am selben Projekt arbeiten oder einander hineinzupfuschen.
-### Kurz gesagt: Git hilft, Änderungen zu organisieren und den Überblick über ein Projekt zu behalten.
+##### Änderungen verfolgen: Immer ersichtlich, was sich verändert hat.
+##### Sicherheit: Frühere Versionen sind jederzeit verfügbar und können als Grundgerüst für Optimierungen dienen.
+##### Branches: Funktionen können getestet/ausprobiert werden, ohne dass der Hauptstand zu verändert und/oder verloren geht.
+##### Zusammenarbeit: Mehrere Personen können am selben Projekt arbeiten oder einander hineinzupfuschen.
+##### Kurz gesagt: Git hilft, Änderungen zu organisieren und den Überblick über ein Projekt zu behalten.
 
 # Was sind Branches, wie werden diese genutzt und was passiert bei sog. Merge-Konflikten?
 
-## Branches sind die einzelnen Entwicklungszweige in Git. In jedem Branche (Zweig) können Änderungen unabhängig vom Hauptzweig (main) bearbeitet und getestet werden.
-## Einen neuen Branch erstellt man für neue Funktionen, Tests und Nachbesserungen. Wenn die Änderungen fertig und getestet sind, führt man sie per Merge mit main als finale bzw. aktuellste Version zusammen. Dabei können sog. Merge-Konflikte entstehen. Das passiert wenn zwei ohner mehr einzelne Branches an derselben Stelle einer Datei Unterschiede aufweisen. Git kann dann nicht automatisch entscheiden, welche Änderung übernommen werden soll. Die Stelle muss also manuell angepasst, also vereinheitlicht werden auf allen relevanten Branches. Beispielsweise kann es auch nur ein Typo sein: Drei Branches mit einem Text in einer der Zeilen. In 1+2 steht nämlich. In 3 steht nähmlich. Das alleine löst einen Mergekonflikt aus.
+##### Branches sind die einzelnen Entwicklungszweige in Git. In jedem Branche (Zweig) können Änderungen unabhängig vom Hauptzweig (main) bearbeitet und getestet werden.
+##### Einen neuen Branch erstellt man für neue Funktionen, Tests und Nachbesserungen. Wenn die Änderungen fertig und getestet sind, führt man sie per Merge mit main als finale bzw. aktuellste Version zusammen. Dabei können sog. Merge-Konflikte entstehen. Das passiert wenn zwei ohner mehr einzelne Branches an derselben Stelle einer Datei Unterschiede aufweisen. Git kann dann nicht automatisch entscheiden, welche Änderung übernommen werden soll. Die Stelle muss also manuell angepasst, also vereinheitlicht werden auf allen relevanten Branches. Beispielsweise kann es auch nur ein Typo sein: Drei Branches mit einem Text in einer der Zeilen. In 1+2 steht nämlich. In 3 steht nähmlich. Das alleine löst einen Mergekonflikt aus.
 
 
 # Next Level: So nutze ich Git mit IntelliJ/PyCharm — Local Repository und Remote Repository

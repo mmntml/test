@@ -1,4 +1,4 @@
-# test von Nigjar Marduchaeva, Matrikelnr.: 470672
+# test von NM
 # testset
 # Das ist ein Testprojekt
 ## Ziel des Projekts ist es, das Arbeiten mit Softwareprogrammen kennenzulernen und sich so einzuarbeiten, dass die Umsetzung der Modulaufgabe(n) möglich wird.

@@ -80,6 +80,7 @@ git config	 Git-Einstellungen konfigurieren
 ##### Einen neuen Branch erstellt man für neue Funktionen, Tests und Nachbesserungen. Wenn die Änderungen fertig und getestet sind, führt man sie per Merge mit main als finale bzw. aktuellste Version zusammen. Dabei können sog. Merge-Konflikte entstehen. Das passiert wenn zwei ohner mehr einzelne Branches an derselben Stelle einer Datei Unterschiede aufweisen. Git kann dann nicht automatisch entscheiden, welche Änderung übernommen werden soll. Die Stelle muss also manuell angepasst, also vereinheitlicht werden auf allen relevanten Branches. Beispielsweise kann es auch nur ein Typo sein: Drei Branches mit einem Text in einer der Zeilen. In 1+2 steht nämlich. In 3 steht nähmlich. Das alleine löst einen Mergekonflikt aus.
 
 
-# Next Level: So nutze ich Git mit IntelliJ/PyCharm — Local Repository und Remote Repository
+# So nutze ich Git mit IntelliJ/PyCharm: Local und Remote Repositories
+##
 
 # Welche nützlichen Git-Tools und Plattformen gibt es und wofür eigentlich ?

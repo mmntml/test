@@ -1,6 +1,8 @@
 #### Testdatei von NM
 # MA-Modul "Moderne Softwarenetwicklung": Übung 1
 
+# Übung 1: Erstellen eines Git-Handouts für Anfänger
+
 # Das ist ein Test zum Einarbeiten und Ausprobieren
 
 ## Ziel dieser Datei ist es, das Arbeiten mit Softwareprogrammen (Git, VSC u.a.) und entsprechenden Online-Plattformen (z.B. Git-hub) kennenzulernen und sich so einzuarbeiten, dass die Umsetzung der Modulaufgabe(n) gelingt.
@@ -105,4 +107,24 @@ Beispiel: Es ist eine README auf GitHub erstellt. Wenn das Repository auf einen 
 ## ++++ Handout ENDE für Übung 1 ++++
 
 
- Wiederaufnahme der Bearbeitung für Übung 2
+ # Wiederaufnahme der Bearbeitung für Übung 2
+ 
+ # Übung 2: Einrichtung einer CI/CD-Pipeline
+
+ ## Was bisher schon ausprobiert werden konnte und im Projekt im Sinne von Übung2 erledigt ist
+ - GitHub Actions ist eingerichtet
+ - Automatische Ausführung der Pipeline bei neuen Commits auf main
+ - Automatische Ausführung der Pipeline bei Pull Requests auf main
+ - Prüfung, ob die drei Webdateien existieren und das JavaScript syntaktisch korrekt ist
+
+
+## Was bisher noch nicht erfüllt ist: 
+- Quellcode wird noch nicht automatisch gebaut	
+- Automatisierte Tests werden nicht ausgeführt
+
+#### Bisherige Projektelemente sind: README.md, index.html, style.css, script.js  
+#### UND 
+#### die CI-Konfiguration ist: .github/workflows/check.yml
+
+## Also, next steps sind: 
+

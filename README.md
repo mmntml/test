@@ -1,6 +1,6 @@
 #### Testdatei von NM
 # testset
-# Das ist ein Test zum Reinarbeiten und Ausprobieren
+# Das ist ein Test zum Einarbeiten und Ausprobieren
 
 ## Ziel dieser Datei ist es, das Arbeiten mit Softwareprogrammen (Git, VSC u.a.) und entsprechenden Online-Plattformen (z.B. Git-hub) kennenzulernen und sich so einzuarbeiten, dass die Umsetzung der Modulaufgabe(n) gelingt.
 

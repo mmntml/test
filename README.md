@@ -107,7 +107,7 @@ Beispiel: Es ist eine README auf GitHub erstellt. Wenn das Repository auf einen 
 ## ++++ Handout ENDE für Übung 1 ++++
 
 
- # Wiederaufnahme der Bearbeitung für Übung 2
+ # **Wiederaufnahme der Bearbeitung für Übung 2** 
  
  # Übung 2: Einrichtung einer CI/CD-Pipeline
 

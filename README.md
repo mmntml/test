@@ -1,5 +1,6 @@
 #### Testdatei von NM
-# testset
+# MA-Modul "Moderne Softwarenetwicklung": Übung 1
+
 # Das ist ein Test zum Einarbeiten und Ausprobieren
 
 ## Ziel dieser Datei ist es, das Arbeiten mit Softwareprogrammen (Git, VSC u.a.) und entsprechenden Online-Plattformen (z.B. Git-hub) kennenzulernen und sich so einzuarbeiten, dass die Umsetzung der Modulaufgabe(n) gelingt.
@@ -101,4 +102,7 @@
 Beispiel: Es ist eine README auf GitHub erstellt. Wenn das Repository auf einen Mac geklont wird, kann die README lokal in VS Code bearbeit und die Änderungen anschließend wieder zu GitHub übertragen werden. >>>> Klonen verbindet die lokale Arbeit auf einem Computer mit dem Online-Repository auf GitHub.
 
 #
-## ++++ Handout ENDE ++++
+## ++++ Handout ENDE für Übung 1 ++++
+
+
+ Wiederaufnahme der Bearbeitung für Übung 2
